@@ -1,0 +1,50 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+
+.container{
+    padding: 0 10rem 0 33rem ;
+}
+
+form{
+    background: white;
+    margin-top: 15px;
+}
+
+form .campo label{ 
+    display: block;
+    padding: 13px 0;
+}
+
+
+form .campo input{
+    padding: 6px;
+    width: 500px;
+}
+
+form button{
+    margin: 10px 0 0 225px;
+    padding: 5px;
+    background: cornflowerblue;
+    border: none;
+}
+
+label.error {
+    color: red;
+    font-size: 14px;
+    padding: 4px 0px !important;
+}
+
+footer div {
+    padding:10px  6rem;
+}
+
+footer div p{
+    padding: 0 3rem ;
+}
+
+
+
